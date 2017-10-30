@@ -1,0 +1,52 @@
+A
+B*
+C
+D*
+E*
+F
+G*
+H
+I
+J*
+K
+L
+M*
+N*
+O
+P*
+Q*
+R
+S*
+T
+U
+V*
+W
+X*
+Y
+Z*
+A: C E P S U V 
+B: A D H K M O P V 
+C: A G O S V 
+D: F H I N Q R V 
+E: G H M O U W 
+F: N O X 
+G: L M O P R S 
+H: B C D I M Q Y 
+I: D H Q 
+J: P T W Z 
+K: B C N Q T V 
+L: A F G P V 
+M: A F G O R W Y 
+N: C F G O X Y 
+O: E F G N S X Z 
+P: G L O W 
+Q: C D E H I J S 
+R: M Y 
+S: A B C H U X 
+T: D G J Y Z 
+U: A C D E G R W 
+V: B K N O Q S 
+W: E O T U 
+X: F J N O P W 
+Y: M R T W 
+Z: F J T 
